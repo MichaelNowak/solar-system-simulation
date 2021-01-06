@@ -1,0 +1,228 @@
+
+nTimeSteps: 4950000
+h: 0.0010000000
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Mercury
+
+Mean orbit velocity from NASA: 9.9841000000 A.U/yr
+Calculated orbit velocity initial condition: 9.9840582797 A.U/yr
+Simulated mean orbit velocity: 9.9821693931 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0019306069 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0001933681
+Absolute deviation of orbit velocity with initial condition: -0.0018888866 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0001891903
+
+Mean orbit period from NASA: 0.2400000000 yr
+Calculated orbit period initial condition: 0.2492709449 yr
+Simulated mean orbit period: 0.2493586388 yr
+Absolute deviation of orbit period with NASA: 0.0093586388 yr
+Relative deviation of orbit period with NASA: -0.0389943283
+Absolute deviation of orbit period with initial condition: 0.0000876939 yr
+Relative deviation of orbit period with initial condition: -0.0003518014
+
+Mean distance to Sun from NASA: 0.3871000000 A.U
+Calculated distance initial condition: 0.3960945794 A.U
+Simulated mean distance to Sun: 0.3961589624 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0090589624 A.U
+Relative deviation of distance with NASA: -0.0234021246
+Absolute deviation of distance with initial condition: 0.0000643830 A.U
+Relative deviation of distance with initial condition: -0.0001625446
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Venus
+
+Mean orbit velocity from NASA: 7.3825000000 A.U/yr
+Calculated orbit velocity initial condition: 7.3825608555 A.U/yr
+Simulated mean orbit velocity: 7.3807989270 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0017010730 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0002304196
+Absolute deviation of orbit velocity with initial condition: -0.0017619285 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0002386609
+
+Mean orbit period from NASA: 0.6200000000 yr
+Calculated orbit period initial condition: 0.6165703908 yr
+Simulated mean orbit period: 0.6168621817 yr
+Absolute deviation of orbit period with NASA: -0.0031378183 yr
+Relative deviation of orbit period with NASA: 0.0050609973
+Absolute deviation of orbit period with initial condition: 0.0002917909 yr
+Relative deviation of orbit period with initial condition: -0.0004732484
+
+Mean distance to Sun from NASA: 0.7233000000 A.U
+Calculated distance initial condition: 0.7244523612 A.U
+Simulated mean distance to Sun: 0.7246222268 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0013222268 A.U
+Relative deviation of distance with NASA: -0.0018280476
+Absolute deviation of distance with initial condition: 0.0001698656 A.U
+Relative deviation of distance with initial condition: -0.0002344745
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Earth
+
+Mean orbit velocity from NASA: 6.2783000000 A.U/yr
+Calculated orbit velocity initial condition: 6.2783281346 A.U/yr
+Simulated mean orbit velocity: 6.2768537115 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0014462885 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0002303631
+Absolute deviation of orbit velocity with initial condition: -0.0014744231 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0002348433
+
+Mean orbit period from NASA: 1.0000000000 yr
+Calculated orbit period initial condition: 1.0024632803 yr
+Simulated mean orbit period: 1.0029344844 yr
+Absolute deviation of orbit period with NASA: 0.0029344844 yr
+Relative deviation of orbit period with NASA: -0.0029344844
+Absolute deviation of orbit period with initial condition: 0.0004712041 yr
+Relative deviation of orbit period with initial condition: -0.0004700462
+
+Mean distance to Sun from NASA: 1.0000000000 A.U
+Calculated distance initial condition: 1.0016883331 A.U
+Simulated mean distance to Sun: 1.0019238225 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0019238225 A.U
+Relative deviation of distance with NASA: -0.0019238225
+Absolute deviation of distance with initial condition: 0.0002354895 A.U
+Relative deviation of distance with initial condition: -0.0002350926
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Mars
+
+Mean orbit velocity from NASA: 5.0755000000 A.U/yr
+Calculated orbit velocity initial condition: 5.0754748717 A.U/yr
+Simulated mean orbit velocity: 5.0743234921 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0011765079 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0002318014
+Absolute deviation of orbit velocity with initial condition: -0.0011513796 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0002268516
+
+Mean orbit period from NASA: 1.8800000000 yr
+Calculated orbit period initial condition: 1.8974147209 yr
+Simulated mean orbit period: 1.8982979987 yr
+Absolute deviation of orbit period with NASA: 0.0182979987 yr
+Relative deviation of orbit period with NASA: -0.0097329780
+Absolute deviation of orbit period with initial condition: 0.0008832778 yr
+Relative deviation of orbit period with initial condition: -0.0004655164
+
+Mean distance to Sun from NASA: 1.5237000000 A.U
+Calculated distance initial condition: 1.5327067827 A.U
+Simulated mean distance to Sun: 1.5330724241 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0093724241 A.U
+Relative deviation of distance with NASA: -0.0061510954
+Absolute deviation of distance with initial condition: 0.0003656414 A.U
+Relative deviation of distance with initial condition: -0.0002385592
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Jupiter
+
+Mean orbit velocity from NASA: 2.7523000000 A.U/yr
+Calculated orbit velocity initial condition: 2.7523019817 A.U/yr
+Simulated mean orbit velocity: 2.7494212668 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0028787332 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0010459373
+Absolute deviation of orbit velocity with initial condition: -0.0028807149 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0010466565
+
+Mean orbit period from NASA: 11.8600000000 yr
+Calculated orbit period initial condition: 11.8989595668 yr
+Simulated mean orbit period: 11.9241587887 yr
+Absolute deviation of orbit period with NASA: 0.0641587887 yr
+Relative deviation of orbit period with NASA: -0.0054096786
+Absolute deviation of orbit period with initial condition: 0.0251992219 yr
+Relative deviation of orbit period with initial condition: -0.0021177668
+
+Mean distance to Sun from NASA: 5.2029000000 A.U
+Calculated distance initial condition: 5.2122495828 A.U
+Simulated mean distance to Sun: 5.2178209236 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0149209236 A.U
+Relative deviation of distance with NASA: -0.0028678090
+Absolute deviation of distance with initial condition: 0.0055713408 A.U
+Relative deviation of distance with initial condition: -0.0010688937
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Saturn
+
+Mean orbit velocity from NASA: 2.0320000000 A.U/yr
+Calculated orbit velocity initial condition: 2.0319974421 A.U/yr
+Simulated mean orbit velocity: 2.0315910511 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0004089489 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0002012544
+Absolute deviation of orbit velocity with initial condition: -0.0004063910 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0001999958
+
+Mean orbit period from NASA: 29.4500000000 yr
+Calculated orbit period initial condition: 29.5682790174 yr
+Simulated mean orbit period: 29.5786032974 yr
+Absolute deviation of orbit period with NASA: 0.1286032974 yr
+Relative deviation of orbit period with NASA: -0.0043668352
+Absolute deviation of orbit period with initial condition: 0.0103242800 yr
+Relative deviation of orbit period with initial condition: -0.0003491674
+
+Mean distance to Sun from NASA: 9.5367000000 A.U
+Calculated distance initial condition: 9.5624534999 A.U
+Simulated mean distance to Sun: 9.5638792787 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0271792787 A.U
+Relative deviation of distance with NASA: -0.0028499668
+Absolute deviation of distance with initial condition: 0.0014257788 A.U
+Relative deviation of distance with initial condition: -0.0001491018
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Uranus
+
+Mean orbit velocity from NASA: 1.4333000000 A.U/yr
+Calculated orbit velocity initial condition: 1.4332987351 A.U/yr
+Simulated mean orbit velocity: 1.4332623283 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0000376717 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0000262832
+Absolute deviation of orbit velocity with initial condition: -0.0000364068 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0000254007
+
+Mean orbit period from NASA: 84.0200000000 yr
+Calculated orbit period initial condition: 84.2530618401 yr
+Simulated mean orbit period: 84.2567794717 yr
+Absolute deviation of orbit period with NASA: 0.2367794717 yr
+Relative deviation of orbit period with NASA: -0.0028181323
+Absolute deviation of orbit period with initial condition: 0.0037176315 yr
+Relative deviation of orbit period with initial condition: -0.0000441246
+
+Mean distance to Sun from NASA: 19.1891000000 A.U
+Calculated distance initial condition: 19.2195202053 A.U
+Simulated mean distance to Sun: 19.2198800477 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0307800477 A.U
+Relative deviation of distance with NASA: -0.0016040381
+Absolute deviation of distance with initial condition: 0.0003598424 A.U
+Relative deviation of distance with initial condition: -0.0000187228
+
+
+--------------------------------------------------
+After simulation via Runge Kutta: Neptune
+
+Mean orbit velocity from NASA: 1.1457000000 A.U/yr
+Calculated orbit velocity initial condition: 1.1456990938 A.U/yr
+Simulated mean orbit velocity: 1.1456396518 A.U/yr
+Absolute deviation of orbit velocity with NASA: -0.0000603482 A.U/yr
+Relative deviation of orbit velocity with NASA: 0.0000526736
+Absolute deviation of orbit velocity with initial condition: -0.0000594420 A.U/yr
+Relative deviation of orbit velocity with initial condition: 0.0000518827
+
+Mean orbit period from NASA: 164.7900000000 yr
+Calculated orbit period initial condition: 164.9621149960 yr
+Simulated mean orbit period: 164.9810292782 yr
+Absolute deviation of orbit period with NASA: 0.1910292782 yr
+Relative deviation of orbit period with NASA: -0.0011592286
+Absolute deviation of orbit period with initial condition: 0.0189142821 yr
+Relative deviation of orbit period with initial condition: -0.0001146583
+
+Mean distance to Sun from NASA: 30.0698000000 A.U
+Calculated distance initial condition: 30.0797981308 A.U
+Simulated mean distance to Sun: 30.0816862308 A.U
+Absolute deviation of simulated mean distance with NASA: 0.0118862308 A.U
+Relative deviation of distance with NASA: -0.0003952880
+Absolute deviation of distance with initial condition: 0.0018880999 A.U
+Relative deviation of distance with initial condition: -0.0000627697
+
